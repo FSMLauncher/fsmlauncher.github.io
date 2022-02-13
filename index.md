@@ -1,39 +1,18 @@
 ## FSM Launcher 3
 
-# Minecraft启动器
+你可以在 [这里](https://support.qq.com/products/361169) 下载或提交FSM3的反馈
 
-You can use the [editor on GitHub](https://github.com/FSMLauncher/fsmlauncher.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### WinUI2
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+采用WinUI2界面库，更美观，直观，高效的界面
+![](https://i.bmp.ovh/imgs/2022/02/3c9271535d817c42.png)
 
-### Markdown
+### 低延迟联机
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+最低联机延迟低至21ms，并且免费，方便
+![](https://i.bmp.ovh/imgs/2022/02/49855ef17df7bce1.png)
 
-```markdown
-Syntax highlighted code block
+### 开源
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FSMLauncher/fsmlauncher.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+向您保证无后门，安全，放心的使用FSM3启动器
+你可以在 [这里](https://github.com/YUXUAN888/FSM3) 查看开源仓库
